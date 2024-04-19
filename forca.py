@@ -92,6 +92,8 @@ while resposta != "n":
 """) 
             print(" ")
 
-    resposta = input("Deseja jogar o jogo da forca ? ( s/n ): ")       
+    resposta = input("Deseja jogar o jogo da forca ? ( s/n ): ")
+
+#galdino Juunior realizado em 19/04
 
   
