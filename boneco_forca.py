@@ -55,3 +55,6 @@ def desenhar_boneco(erros):
         print(" |   / \\")
         print(" |__________")
         print(" ")
+
+
+lista = [ "python","javascript", "aplicativos", "mobile", "usuario","servidor", "cafezinho"]
